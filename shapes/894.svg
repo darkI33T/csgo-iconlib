@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="shape" height="96.0px" width="96.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, -16.0, -16.0)">
+    <path d="M112.0 112.0 L16.0 112.0 16.0 16.0 112.0 16.0 112.0 112.0" fill="#cc0000" fill-rule="evenodd" stroke="none"/>
+    <path d="M85.5 55.3 L86.5 56.0 Q87.35 57.0 87.0 59.55 86.5 65.75 84.0 68.8 L83.15 77.6 86.15 79.6 Q89.2 81.65 89.7 82.3 L90.9 83.65 Q91.4 84.15 91.25 85.0 90.9 86.35 90.9 90.4 L98.0 93.6 Q99.0 94.1 105.75 96.3 110.95 98.15 112.0 99.5 L112.0 112.0 16.0 112.0 16.0 100.55 Q18.2 98.65 19.5 98.35 22.9 97.5 39.25 91.9 L39.25 84.85 41.95 81.3 Q44.65 77.75 45.15 77.75 46.0 77.75 43.5 69.5 L42.15 67.3 Q40.8 65.45 40.8 62.4 40.8 60.7 41.45 59.35 L41.95 58.35 Q41.3 53.95 41.1 48.75 40.8 38.25 43.65 34.2 47.55 28.65 51.1 26.3 55.65 23.25 62.05 23.1 69.45 22.9 75.55 26.95 82.1 31.2 83.3 38.25 84.8 48.25 85.5 55.3" fill="#990000" fill-rule="evenodd" stroke="none"/>
+    <path d="M83.3 83.65 Q75.2 91.75 63.75 91.75 52.25 91.75 44.0 83.65 35.9 75.4 35.9 63.9 35.9 52.45 44.0 44.35 52.25 36.25 63.75 36.25 75.2 36.25 83.3 44.35 91.4 52.45 91.4 63.9 91.4 75.4 83.3 83.65 Z" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="10.0" stroke-width="2.0"/>
+    <path d="M99.85 63.9 L27.45 63.9" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.5" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="10.0" stroke-width="1.0"/>
+    <path d="M63.75 27.8 L63.75 100.2" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.5" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="10.0" stroke-width="1.0"/>
+  </g>
+</svg>
